@@ -11,6 +11,6 @@ public class itemGroupBT extends ItemGroup {
 
     @Override
     public ItemStack makeIcon() {
-        return new ItemStack(ItemRegistry.null_Item.get());
+        return new ItemStack(ItemRegistry.icon_Item.get());
     }
 }

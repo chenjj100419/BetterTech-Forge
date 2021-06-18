@@ -1,3 +1,6 @@
 {
-  "item.bettertech.null": "Dev.ITEM"
+  "item.bettertech.null": "Dev.ITEM",
+  "item.bettertech.icon": "[WIP]文字齿轮",
+
+  "itemGroup.bttertech_group": "更好的科技"
 }
