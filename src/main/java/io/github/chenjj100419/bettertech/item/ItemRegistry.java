@@ -9,4 +9,5 @@ import net.minecraftforge.registries.ForgeRegistries;
 public class ItemRegistry {
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, BetterTech.MOD_ID);
     public static final RegistryObject<Item> null_Item = ITEMS.register("null", nullItem::new);
+    public static final RegistryObject<Item> icon_Item = ITEMS.register("icon", ItemgroupIcon::new);
 }
