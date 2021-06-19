@@ -1,6 +1,10 @@
 {
   "item.bettertech.null": "Dev.ITEM",
   "item.bettertech.icon": "[WIP]文字齿轮",
+  "item.bettertech.air_apple": "空气苹果",
+  "item.bettertech.diamond_apple": "钻石苹果",
+
+  "block.bettertech.diamond_netherite_block": "强化钻石块[下界合金]",
 
   "itemGroup.bttertech_group": "更好的科技"
 }

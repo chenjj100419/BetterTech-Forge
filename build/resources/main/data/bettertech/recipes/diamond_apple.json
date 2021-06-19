@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "bettertech:air_apple"
+  },
+  "addition": {
+    "item": "minecraft:diamond_block"
+  },
+  "result": {
+    "item": "bettertech:diamond_apple"
+  }
+}

@@ -1,5 +1,6 @@
 package io.github.chenjj100419.bettertech;
 
+import io.github.chenjj100419.bettertech.block.BlockRegistry;
 import io.github.chenjj100419.bettertech.item.ItemRegistry;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
@@ -25,7 +26,6 @@ public class BetterTech {
     public static final String MOD_ID = "bettertech";
     public static final String MOD_NAME = "Bettertech";
     public static final String VERSION = "1.0.0";
-    // Directly reference a log4j logger.
     private static final Logger LOGGER = LogManager.getLogger();
 
     public BetterTech() {
@@ -41,6 +41,7 @@ public class BetterTech {
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
         ItemRegistry.ITEMS.register(FMLJavaModLoadingContext.get().getModEventBus());
+        BlockRegistry.BLOCKS.register(FMLJavaModLoadingContext.get().getModEventBus());
     }
 
     private void setup(final FMLCommonSetupEvent event){

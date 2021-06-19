@@ -1,16 +1,26 @@
+io/github/chenjj100419/bettertech/BetterTech.java
+ io.github.chenjj100419.bettertech.BetterTech
+io/github/chenjj100419/bettertech/block/blockDiamondNetherite.java
+ io.github.chenjj100419.bettertech.block.blockDiamondNetherite
 io/github/chenjj100419/bettertech/item/nullItem.java
  io.github.chenjj100419.bettertech.item.nullItem
 io/github/chenjj100419/bettertech/itemGroup/modGroup.java
  io.github.chenjj100419.bettertech.itemGroup.modGroup
-io/github/chenjj100419/bettertech/itemGroup/itemGroupBT.java
- io.github.chenjj100419.bettertech.itemGroup.itemGroupBT
-io/github/chenjj100419/bettertech/item/ItemRegistry.java
- io.github.chenjj100419.bettertech.item.ItemRegistry
+io/github/chenjj100419/bettertech/block/BlockRegistry.java
+ io.github.chenjj100419.bettertech.block.BlockRegistry
+io/github/chenjj100419/bettertech/item/normal/itemMesh.java
+ io.github.chenjj100419.bettertech.item.normal.itemMesh
+io/github/chenjj100419/bettertech/item/base/itemBase.java
+ io.github.chenjj100419.bettertech.item.base.itemBase
 io/github/chenjj100419/bettertech/item/ItemgroupIcon.java
  io.github.chenjj100419.bettertech.item.ItemgroupIcon
 io/github/chenjj100419/bettertech/disabledFun.java
  io.github.chenjj100419.bettertech.disabledFun
-io/github/chenjj100419/bettertech/item/base/itemBase.java
- io.github.chenjj100419.bettertech.item.base.itemBase
-io/github/chenjj100419/bettertech/BetterTech.java
- io.github.chenjj100419.bettertech.BetterTech
+io/github/chenjj100419/bettertech/itemGroup/itemGroupBT.java
+ io.github.chenjj100419.bettertech.itemGroup.itemGroupBT
+io/github/chenjj100419/bettertech/item/food/itemDiamondApple.java
+ io.github.chenjj100419.bettertech.item.food.itemDiamondApple
+io/github/chenjj100419/bettertech/item/food/itemAirApple.java
+ io.github.chenjj100419.bettertech.item.food.itemAirApple
+io/github/chenjj100419/bettertech/item/ItemRegistry.java
+ io.github.chenjj100419.bettertech.item.ItemRegistry

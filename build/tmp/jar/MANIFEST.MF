@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: BetterTech-Forge
+Implementation-Version: 1.0
+Specification-Vendor: bettertechsareus
+Specification-Title: bettertech
+Implementation-Timestamp: 2021-06-19T14:52:10+0800
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+

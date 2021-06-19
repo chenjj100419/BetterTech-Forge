@@ -5,13 +5,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "has_stone": "2021-06-18 21:12:12 +0800"
+      "has_ink_sac": "2021-06-19 12:48:49 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone": {
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-06-18 21:12:12 +0800"
     },
@@ -23,25 +23,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "minecraft:recipes/misc/emerald_from_blasting": {
     "criteria": {
-      "in_water": "2021-06-18 20:53:53 +0800"
+      "has_emerald_ore": "2021-06-19 14:09:54 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+  "minecraft:recipes/misc/emerald_from_smelting": {
     "criteria": {
-      "has_stone": "2021-06-18 21:12:12 +0800"
+      "has_emerald_ore": "2021-06-19 14:09:54 +0800"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2021-06-18 21:12:12 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2021-06-18 21:12:12 +0800"
     },
@@ -54,6 +48,76 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-06-18 21:12:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_apple": "2021-06-19 13:17:46 +0800",
+      "enchanted_golden_apple": "2021-06-19 13:34:29 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2021-06-19 13:33:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2021-06-18 21:12:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2021-06-18 21:12:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-06-18 20:52:29 +0800",
+      "minecraft:river": "2021-06-18 20:53:45 +0800",
+      "minecraft:wooded_hills": "2021-06-19 13:47:10 +0800",
+      "minecraft:plains": "2021-06-19 13:46:52 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2021-06-18 21:12:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2021-06-19 13:17:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-06-18 20:53:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-06-19 14:27:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-06-18 21:12:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2021-06-18 21:12:12 +0800"
     },
@@ -101,30 +165,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2021-06-18 21:12:12 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2021-06-18 21:12:12 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2021-06-18 20:53:53 +0800"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2021-06-18 20:52:29 +0800",
-      "minecraft:river": "2021-06-18 20:53:45 +0800"
-    },
-    "done": false
   },
   "DataVersion": 2586
 }
