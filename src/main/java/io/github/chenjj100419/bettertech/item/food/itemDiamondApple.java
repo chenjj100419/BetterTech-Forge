@@ -15,6 +15,8 @@ public class itemDiamondApple extends Item{
             .effect(() -> new EffectInstance(Effects.HERO_OF_THE_VILLAGE, 30 * (60 * 20), 10), 1)
             .effect(() -> new EffectInstance(Effects.HEALTH_BOOST, 30 * (60 * 20), 2), 1)
             .effect(() -> new EffectInstance(Effects.REGENERATION, 30 * (60 * 20), 2), 1)
+            .fast()
+            .alwaysEat()
             .build();
 
     public itemDiamondApple() {
